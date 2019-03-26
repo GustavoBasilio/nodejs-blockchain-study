@@ -1,0 +1,11 @@
+
+POST http://localhost:3000/addMessage HTTP/1.1
+Content-Type: application/json
+
+{
+    "message": "Hello World!"
+}
+
+###
+
+GET http://localhost:3000/viewMessages HTTP/1.1

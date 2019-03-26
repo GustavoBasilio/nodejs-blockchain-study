@@ -1,0 +1,14 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain study",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/nodemon index.js"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Gustavo Basilio",
+  "license": "ISC"
+}
